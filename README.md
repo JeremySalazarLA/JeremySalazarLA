@@ -2,7 +2,7 @@
 
 ### Ingeniero en Tecnologías de la Información
 
-Soy Ingeniero en Tecnologías de la Información con conocimiento y experiencia en desarrollo de aplicaciones web y móviles, bases de datos, backend, soporte técnico e infraestructura TI.
+Soy Ingeniero en Tecnologías de la Información con conocimientos y experiencia práctica en desarrollo de aplicaciones web y móviles, bases de datos, backend, soporte técnico e infraestructura TI.
 
 Me interesa desarrollar soluciones tecnológicas que permitan automatizar procesos, gestionar información y resolver problemas reales.
 
